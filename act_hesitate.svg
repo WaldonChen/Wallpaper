@@ -16,9 +16,9 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="绘图.svg"
-   inkscape:export-filename="/home/waldon/Pictures/绘图.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90"
+   inkscape:export-filename="/home/waldon/Pictures/act_hesitate.png"
+   inkscape:export-xdpi="30"
+   inkscape:export-ydpi="30"
    enable-background="new">
   <defs
      id="defs4">
@@ -53,7 +53,7 @@
        x2="1155.8462"
        y2="-2.2816293"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-214.1861,286.05702)" />
+       gradientTransform="matrix(0.9995721,0,0,1.0025526,-214.09587,1.437901)" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3778"
@@ -63,17 +63,8 @@
        fx="1054.9529"
        fy="189.32671"
        r="334.72086"
-       gradientTransform="matrix(-1.0303089,2.0795767,-0.85877056,-0.42547074,2329.9437,-2113.8893)"
+       gradientTransform="matrix(-1.0290148,2.0620743,-0.85769194,-0.42188983,2257.6412,-2094.6759)"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       inkscape:collect="always"
-       id="filter3788">
-      <feBlend
-         inkscape:collect="always"
-         mode="multiply"
-         in2="BackgroundImage"
-         id="feBlend3790" />
-    </filter>
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3778-5"
@@ -116,17 +107,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.59004392"
-     inkscape:cx="564.67824"
-     inkscape:cy="361.04289"
+     inkscape:cx="675.90839"
+     inkscape:cy="375.91687"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      inkscape:window-width="1301"
      inkscape:window-height="744"
      inkscape:window-x="65"
      inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -135,7 +128,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -199,15 +192,14 @@
      inkscape:label="Layer 2"
      style="display:inline">
     <path
-       transform="translate(0,-284.36223)"
        style="fill:url(#linearGradient3772);fill-opacity:1;stroke:none;display:inline"
-       d="M 592.5335,284.62278 428.13896,1052.3622 573.89082,1050.6674 843.3623,284.62278 z"
+       d="M 643.74286,1.699106 472,764.60175 573.64383,768 843,0 z"
        id="path2996"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
        style="fill:url(#radialGradient3786);fill-opacity:1;stroke:none;display:inline"
-       d="M 1081.2754,-1.4342429 698.2531,761.22084 1367.6948,766.30521 1366,0.26054614 z"
+       d="M 1010.5412,0 628,756.23632 1366,768 1364.3073,3.3610451 z"
        id="path3776"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
